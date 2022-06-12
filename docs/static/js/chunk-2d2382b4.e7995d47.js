@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2382b4"],{fddd:function(a,t,e){"use strict";e.r(t);var n=function(){var a=this,t=a.$createElement,e=a._self._c||t;return e("iframe",{staticStyle:{border:"0",margin:"0 auto",display:"block","border-radius":"10px",height:"90vh",width:"100%","min-width":"300px"},attrs:{src:"https://pancakeswap.finance/swap"}})},r=[],i={name:"Pancake"},s=i,c=e("2877"),d=Object(c["a"])(s,n,r,!1,null,null,null);t["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d2382b4.e7995d47.js.map
